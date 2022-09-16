@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ubuntu/project/pwm/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++   -g -o CMakeFiles/pwm.dir/main.cpp.o -c /home/ubuntu/project/pwm/main.cpp",
+  "file": "/home/ubuntu/project/pwm/main.cpp"
+}
+]
